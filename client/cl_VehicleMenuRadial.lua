@@ -124,7 +124,7 @@ lib.registerRadial({
     id = 'car_windows',
     items = {
         {
-            label = loclale("back_right"),
+            label = locale("back_right"),
             icon = 'caret-right',
             keepOpen = true,
             onSelect = function()
